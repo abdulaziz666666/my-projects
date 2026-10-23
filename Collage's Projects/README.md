@@ -1,12 +1,11 @@
 <h2 align="center">
-مشاريعي مع د. محمد ابو هدهود <br>
-  My Projects With Dr. Mohammed Abu Hadhoud
+مشاريع الكلية Collage's Projects
 </h2>
 
-<br><br>
+<br>
 
 <p align="center">
-  سأضع كل أعمالي في مجلد مخصص لكل دورة شرحها الدكتور.
+  هذا المجلد حاوٍ لكل مشروعٌ عملت عليه في كلية علوم الحاسب وتقنية المعلومات بجامعة الملك فيصل.
   <br>
-  .I will put every project i worked on in it's belonging course Dr. Mohammed taught
+  This folder contains every project I've worked on in the Collage of Computer Science and Information Technology (CCSIT) in King Faisal Usiversity (KFU).
 </p>
