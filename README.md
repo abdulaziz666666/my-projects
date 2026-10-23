@@ -3,8 +3,6 @@
   My Projects
 </h2>
 
-<br><br>
-
 <p align="center">
 سأضع هنا كل مشاريعي مصنفةً إلى مجلدات
   <br>
