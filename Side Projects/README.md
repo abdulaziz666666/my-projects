@@ -1,12 +1,11 @@
 <h2 align="center">
-مشاريعي مع د. محمد ابو هدهود <br>
-  My Projects With Dr. Mohammed Abu Hadhoud
+مشاريعي الجانبية My Side Projects
 </h2>
 
 <br><br>
 
 <p align="center">
-  سأضع كل أعمالي في مجلد مخصص لكل دورة شرحها الدكتور.
+  ستجد هنا ما برمجته من مشاريع في فراغي
   <br>
-  .I will put every project i worked on in it's belonging course Dr. Mohammed taught
+  Here you can find my side projects
 </p>
