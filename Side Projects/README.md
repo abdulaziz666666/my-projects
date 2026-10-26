@@ -2,7 +2,7 @@
 مشاريعي الجانبية My Side Projects
 </h2>
 
-<br><br>
+<br>
 
 <p align="center">
   ستجد هنا ما برمجته من مشاريع في فراغي
