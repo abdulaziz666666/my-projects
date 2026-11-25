@@ -6,5 +6,5 @@
 <p align="center">
 سأضع هنا كل مشاريعي مصنفةً إلى مجلدات
   <br>
-  .I will put every project i worked on in it's belonging folder
+  I organize all my projects into their respective folders.
 </p>
